@@ -1,7 +1,10 @@
+import Nav from "./components/Nav";
+import './index.css'
+
 function App() {
   return (
     <>
-      <h1>Learning How to Learn</h1>
+      <Nav />
     </>
   )
 }
